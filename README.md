@@ -1,0 +1,1 @@
+This is a simple web scraper written in go. i plan to make it into a one-page website.
